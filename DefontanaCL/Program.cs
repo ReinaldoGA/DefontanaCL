@@ -63,7 +63,7 @@ namespace DefontanaCL
             Console.WriteLine("El total de ventas de los últimos 30 días (monto total y cantidad total de ventas)");
             Console.WriteLine($"Total: {totalSalesAmount.ToString("n2")} Cantidad:  {totalSalesCount}");
             Console.WriteLine($"---------------------------------------------------------------------");
-            
+             
             // El día y hora en que se realizó la venta con el monto más alto (y cuál es aquel monto)
             var saleWithHighestAmount = result
                 .OrderByDescending(s => s.Total)
