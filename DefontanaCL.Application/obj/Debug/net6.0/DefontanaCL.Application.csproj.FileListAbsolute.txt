@@ -1,0 +1,17 @@
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Application.deps.json
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Application.runtimeconfig.json
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Application.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Application.pdb
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Data.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\bin\Debug\net6.0\DefontanaCL.Data.pdb
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.AssemblyInfo.cs
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.csproj.CopyComplete
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\refint\DefontanaCL.Application.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.pdb
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\DefontanaCL.Application.genruntimeconfig.cache
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaCL.Application\obj\Debug\net6.0\ref\DefontanaCL.Application.dll

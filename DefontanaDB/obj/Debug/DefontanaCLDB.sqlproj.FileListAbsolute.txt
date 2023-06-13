@@ -1,0 +1,10 @@
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\bin\Debug\DefontanaCLDB.dacpac
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\bin\Debug\DefontanaDB.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\bin\Debug\DefontanaDB.pdb
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\DefontanaCLDB.sqlproj.AssemblyReference.cache
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\Model.xml
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\refactor.xml
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\postdeploy.sql
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\predeploy.sql
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\DefontanaDB.dll
+C:\Users\user\Documents\DefontanaCL\DefontanaCL\DefontanaDB\obj\Debug\DefontanaDB.pdb
